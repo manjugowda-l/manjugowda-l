@@ -2,11 +2,6 @@
   <span style="color:#0077B6;"><img src="https://readme-typing-svg.herokuapp.com?color=0077B6&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&pause=1000&lines=Hi+👋,+I'm+Manju+L" /></span>
 </h1>
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0077B6&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&pause=1000&lines=Hi+👋,+I'm+Manju+L" />
-</p> -->
-
----
 
 ## 👩‍💻 About Me
 
@@ -39,3 +34,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+
+## 🎯 Current Focus
+
+Deepening Data Structures & Algorithms and strengthening system fundamentals.
