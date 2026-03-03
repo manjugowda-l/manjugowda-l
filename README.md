@@ -1,10 +1,10 @@
 <h1 align="center">
-  <span style="color:#0077B6;">Hi 👋, I'm Manju L</span>
+  <span style="color:#0077B6;"><img src="https://readme-typing-svg.herokuapp.com?color=0077B6&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&pause=1000&lines=Hi+👋,+I'm+Manju+L" /></span>
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0077B6&size=22&center=true&vCenter=true&width=500&lines=Full-Stack+and+AI+Enthusiast;Building+Practical+Projects;Strengthening+Core+Fundamentals" />
-</p>
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0077B6&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&pause=1000&lines=Hi+👋,+I'm+Manju+L" />
+</p> -->
 
 ---
 
