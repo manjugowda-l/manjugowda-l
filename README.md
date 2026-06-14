@@ -11,6 +11,7 @@
 
 ---
 
+## Check out my Resume here : [My Resume](https://drive.google.com/file/d/1444IlM8yH1xw8sloN6_ELMYJJ_BlOKOa/view?usp=sharing)
 ## 🛠 Tech Stack
 
 ### 💻 Languages
