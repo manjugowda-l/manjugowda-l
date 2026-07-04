@@ -20,19 +20,19 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/manjugowda-l/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="YOUR_PINTEREST_URL" target="_blank">
+  <a href="[YOUR_PINTEREST_URL](https://pin.it/43w4D3LKq)" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
   </a>
 
-  <a href="YOUR_WEBSITE_URL" target="_blank">
+  <a href="[YOUR_WEBSITE_URL](https://tech-notes-dev.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Tech_Notes_Dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:manjugowda200523@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -51,9 +51,9 @@
 
 A platform for **free handwritten notes, roadmaps, and beginner-friendly tech resources** covering Linux, Cloud Computing, AWS, DevOps, and more.
 
-🌐 **Live Website:** YOUR_WEBSITE_URL
+🌐 **Live Website:** [YOUR_WEBSITE_URL](https://tech-notes-dev.vercel.app/)
 
-📌 **Pinterest:** YOUR_PINTEREST_URL
+📌 **Pinterest:** [YOUR_PINTEREST_URL](https://pin.it/43w4D3LKq)
 
 ---
 
