@@ -16,34 +16,15 @@
 - 📌 Sharing free learning resources on Pinterest
 
 ---
-
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/manjugowda-l/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" height="20" />
-    LinkedIn
-  </a>
-  &nbsp;&nbsp;&nbsp;
+🔗 **LinkedIn:** https://www.linkedin.com/in/manjugowda-l/
 
-  <a href="https://pin.it/43w4D3LKq" target="_blank">
-    <img src="https://cdn.simpleicons.org/pinterest/E60023" width="20" height="20" />
-    Pinterest
-  </a>
-  &nbsp;&nbsp;&nbsp;
+📌 **Pinterest:** https://pin.it/43w4D3LKq
 
-  <a href="https://tech-notes-dev.vercel.app/" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="20" height="20" />
-    Tech Notes Dev
-  </a>
-  &nbsp;&nbsp;&nbsp;
+🌐 **Tech Notes Dev:** https://tech-notes-dev.vercel.app/
 
-  <a href="mailto:manjugowda200523@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" />
-    Email
-  </a>
-</p>
----
+📧 **Email:** <a href="mailto:manjugowda200523@gmail.com">manjugowda200523@gmail.com</a>
 
 ## 📄 Resume
 
