@@ -38,9 +38,9 @@
 
 A platform for **free handwritten notes, roadmaps, and beginner-friendly tech resources** covering Linux, Cloud Computing, AWS, DevOps, and more.
 
-🌐 **Live Website:** [YOUR_WEBSITE_URL](https://tech-notes-dev.vercel.app/)
+🌐 **Live Website:** https://tech-notes-dev.vercel.app/
 
-📌 **Pinterest:** [YOUR_PINTEREST_URL](https://pin.it/43w4D3LKq)
+📌 **Pinterest:** https://pin.it/43w4D3LKq
 
 ---
 
