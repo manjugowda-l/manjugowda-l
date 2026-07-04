@@ -24,11 +24,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="[YOUR_PINTEREST_URL](https://pin.it/43w4D3LKq)" target="_blank">
+  <a href="https://pin.it/43w4D3LKq" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
   </a>
 
-  <a href="[YOUR_WEBSITE_URL](https://tech-notes-dev.vercel.app/)" target="_blank">
+  <a href="https://tech-notes-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Tech_Notes_Dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 
@@ -41,7 +41,7 @@
 
 ## 📄 Resume
 
-📌 **[View My Resume](https://drive.google.com/file/d/1444IlM8yH1xw8sloN6_ELMYJJ_BlOKOa/view?usp=sharing)**
+📌 **[View My Resume](https://drive.google.com/file/d/16atYDOJ93OUVzIVb3srs0iXxonfX1c6B/view?usp=drive_link)**
 
 ---
 
