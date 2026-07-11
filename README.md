@@ -47,7 +47,7 @@ A platform for **free handwritten notes, roadmaps, and beginner-friendly tech re
 
 <p align="center">
   <img height="145" src="https://github-readme-stats.vercel.app/api?username=manjugowda-l&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="145" src="https://github-readme-streak-stats.herokuapp.com/?user=manjugowda-l&theme=github-dark&hide_border=true"/>
+  <!-- <img height="145" src="https://github-readme-streak-stats.herokuapp.com/?user=manjugowda-l&theme=github-dark&hide_border=true"/> -->
 </p>
 
 ---
