@@ -8,12 +8,12 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Electronics & Communication Engineering Student
+- 🎓 Electronics & Communication Engineering Student.
 - ☁️ Passionate about **Cloud Computing, DevOps, and Full-Stack Development**
-- 📚 Building **Tech Notes Dev** – a platform for free handwritten tech notes, roadmaps, and learning resources
+- 📚 Building **Tech Notes Dev** – a platform for free handwritten tech notes, roadmaps, and learning resources.
 - 🚀 Developing practical, real-world projects
-- 📖 Strengthening Data Structures & Algorithms and Computer Science fundamentals
-- 📌 Sharing free learning resources on Pinterest
+- 📖 Strengthening Data Structures & Algorithms and Computer Science fundamentals.
+- 📌 Sharing free learning resources on Pinterest.
 
 ---
 ## 🌐 Connect With Me
