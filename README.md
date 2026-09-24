@@ -21,9 +21,6 @@
 🔗 **LinkedIn:**  
 https://www.linkedin.com/in/manjugowda-l/
 
-📌 **Pinterest:**  
-https://pin.it/29zNmJjtR
-
 🌐 **Portfolio:**  
 https://manju-l-portfolio.vercel.app/
 
@@ -37,7 +34,7 @@ https://tech-notes-dev.vercel.app/
 
 ## 📄 Resume
 
-📌 **[View My Resume](YOUR_RESUME_GOOGLE_DRIVE_LINK_HERE)**
+📌 **[View My Resume](https://drive.google.com/file/d/10qlMJIDI6cD1URvEZBjMSH8sJ2-joF2y/view?usp=sharing)**
 
 ---
 
